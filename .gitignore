@@ -1,3 +1,24 @@
+# Необходимое нам
+# Файлы окружения
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Данные приложения и тестов
+expenses.json
+test_expenses.json
+
+# Настройки IDE
+.vscode/
+.idea/
+
+# Временные файлы
+*.log
+*.tmp
+
+# Строки созданные автоматически самим GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
